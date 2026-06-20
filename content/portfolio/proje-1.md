@@ -1,14 +1,11 @@
 ---
-title: "Dijital Mimarlık Portfolyosu"
+title: "Modern Konut Projesi"
 date: 2026-06-20
 draft: false
 ---
 
-# Portfolyoma Hoş Geldiniz
+## Proje Detayları
+Bu tasarımda modern mimari çizgiler ve sürdürülebilir malzeme kullanımı ön planda tutulmuştur.
 
-Merhaba, ben Halil İbrahim Bozoğlu. Bu platformda güncel mimari projelerimi, tasarım felsefemi ve eskizlerimi paylaşıyorum.
-
-## Çalışma Alanlarım
-* Mimari Proje Tasarımı ve Uygulama
-* 360 Derece Sanal Tur Entegrasyonları
-* Minimalist Çizimler ve Görselleştirme
+* **Konum:** İstanbul
+* **Alan:** 350 m²
